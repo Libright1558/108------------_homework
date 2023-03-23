@@ -1,3 +1,4 @@
 .DS_Store
 /p4/p4
 /.vscode/*
+.gitattributes
